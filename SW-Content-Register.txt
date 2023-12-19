@@ -1,0 +1,64 @@
+Release Name: neutron-software-stack
+Release Version: 1.0.0
+Package License: LA_OPT_NXP_Software_License v53 December 2023 
+License Files: LICENSE.txt
+Release Location: https://github.com/nxp-imx/neutron
+Origin: NXP (proprietary)
+
+--------------------------------------------
+Included header file
+--------------------------------------------
+
+Component:                   neutron inteface header file
+Outgoing License:            BSD 3-Clause
+License File:                LICENSE-BSD-3.txt
+Package Category:            neutron driver header files
+Type of Content:             header files
+Origin:                      NXP (BSD 3-Clause)
+File location:               imx95/include/NeutronDriver.h imx95/include/NeutronErrors.h
+
+--------------------------------------------
+
+Build Dependencies:
+
+--------------------------------------------
+
+Package:                   Pytorch Glow
+Outgoing License:          Apache 2.0
+License Files:             https://github.com/pytorch/glow/blob/master/LICENSE
+Type of content:           Source Code
+Description and comments:  Neural Network Compiler
+Release Location:          https://github.com/pytorch/glow
+Origin:                    Glow (Apache-2.0) - https://github.com/pytorch/glow
+
+--------------------------------------------
+
+Package:                   gflags
+Outgoing License:          BSD 3-Clause
+License Files:             https://github.com/gflags/gflags/blob/master/COPYING.txt
+Type of content:           Source Code
+Description and comments:  Commandline flags library
+Release Location:          https://github.com/gflags/gflags
+Origin:                    gflags (BSD 3-Clause) - https://github.com/gflags/gflags
+
+--------------------------------------------
+
+Package:                   TensorFlow
+Outgoing License:          Apache 2.0
+License Files:             https://github.com/tensorflow/tensorflow/blob/master/LICENSE
+Type of content:           Source Code
+Description and comments:  Machine Learning platform
+Release Location:          https://github.com/tensorflow/tensorflow
+Origin:                    TensorFlow (Apache-2.0) - https://github.com/tensorflow/tensorflow
+
+--------------------------------------------
+
+Package:                   Flatbuffers
+Outgoing License:          Apache 2.0
+License Files:             https://github.com/google/flatbuffers/blob/master/LICENSE
+Type of content:           Source Code
+Description and comments:  Cross platform serialization library
+Release Location:          https://github.com/google/flatbuffers
+Origin:                    Flatbuffers (Apache-2.0) - https://github.com/google/flatbuffers
+
+--------------------------------------------
